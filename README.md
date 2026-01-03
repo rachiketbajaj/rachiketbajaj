@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/rachiketbajaj" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/Rachiket Bajaj" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/@rachiketb" target="_blank">
     <img src="https://skillicons.dev/icons?i=hackerrank" />
   </a>
   <a href="https://rachiketbajaj" target="_blank">
