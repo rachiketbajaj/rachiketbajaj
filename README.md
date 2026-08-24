@@ -13,12 +13,6 @@
   <a href="https://www.linkedin.com/in/rachiketbajaj" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://leetcode.com/Rachiketbajaj10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
-  <a href="https://www.hackerrank.com/@rachiketb" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" />
-  </a>
   <a href="https://rachiketbajaj" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
